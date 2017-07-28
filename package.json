@@ -15,5 +15,12 @@
     "react-native-fs": "2.1.0-rc.1",
     "react-native-navbar": "1.6.3",
     "react-native-vector-icons": "4.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.3.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.1.0"
   }
 }
